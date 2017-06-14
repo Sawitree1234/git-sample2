@@ -1,8 +1,11 @@
-body {
+
+
 	background-color: red;
 }
 .alert {
 	color : red;
 	font-weight: bold;
-	font-style: italic; 
+    font-style: italic; 
+
+
 }
